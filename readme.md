@@ -1,28 +1,25 @@
-# This is a large heading
+# Peter Brett
 
-## This is a smaller heading
+### Geography
 
-Ad as **imagination** bodies forth,
-    The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Belfast, in Northern Ireland
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The Art of Computer Programming* by Donald Knuth
+- *Beautiful Code* by various authors
+- *Eloquent Javascript* by Marijn Haverbeke
 
-```
-    This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaraunts
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Aldens in Ballyhackamore
+2. The Quays in Portavogie
+3. Sam Bo in Shatin, Hong Kong
+
+### Contact
+
+The best way to get in touch with me is ... not to.
